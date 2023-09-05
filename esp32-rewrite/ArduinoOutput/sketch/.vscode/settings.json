@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\user\\Desktop\\distance measurement\\esp32-rewrite\\tag\\.vscode\\settings.json"
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stdint-gcc.h": "c",
+        "dw1000ctrl.h": "c"
+    }
+}
